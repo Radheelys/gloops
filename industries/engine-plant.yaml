@@ -99,7 +99,6 @@ callbacks: |
   }
 cargoAcceptance:
 - ALUM
-- CSTI
 - SAND
 cargoProduction:
 - VENG

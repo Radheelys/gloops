@@ -106,7 +106,6 @@ cargoAcceptance:
 - QLME
 - SCMT
 cargoProduction:
-- STCB
 - SLAG
 - STST
 colour: 186

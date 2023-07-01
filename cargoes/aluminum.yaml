@@ -4,13 +4,13 @@ classes: 32
 colour: 166
 id: 4
 label: ALUM
-longName: aluminium
-name: Aluminium
+longName: aluminum
+name: Aluminum
 penaltyLength: 248
 penaltyLowerBound: 7
 price: 5756
 sprite:
-  filename: cargoes/aluminium.png
+  filename: cargoes/aluminum.png
   left: 0
   top: 0
 unitName: Tonnes
